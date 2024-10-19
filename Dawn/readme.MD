@@ -63,7 +63,7 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
-### 5. `tokens.txt` ✔️ - Get token from
+### 5. `tokens.txt` ✔️ - How to get token >>> [Link](https://t.me/KeoAirDropFreeNe/257/5786)
 
 ```txt
 abc...xyz
